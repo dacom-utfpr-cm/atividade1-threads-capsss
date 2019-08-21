@@ -1,0 +1,2 @@
+palavra palavra2 palavra3
+x y z
